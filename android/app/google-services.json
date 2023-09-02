@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "793016876349",
+    "project_id": "ffbasic66",
+    "storage_bucket": "ffbasic66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793016876349:android:a892ba07fa7c8d5bb79954",
+        "android_client_info": {
+          "package_name": "com.example.ffbasic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793016876349-2epdjlcia2mdtip45r1hjsimba887ega.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLNrHTkK_pykkWWIPAUHEHb1njLlQQECc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793016876349-2epdjlcia2mdtip45r1hjsimba887ega.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
